@@ -1,0 +1,13 @@
+.head {
+    color: white;
+    text-align: center;
+    border: 3px solid blue;
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.letters {
+    text-align: center;
+    
+}
